@@ -22,5 +22,6 @@ My main focus at the moment is **HydroSentry**. It’s a project where I’m wor
 
 ### 📬 Let's Connect!
 
-**LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/surabhi-bp-423318390)
-**Gmail:** [your.email@gmail.com](mailto:your.email@gmail.com)
+💼 **LinkedIn:** [linkedin.com/in/surabhi-bp-423318390](https://www.linkedin.com/in/surabhi-bp-423318390)
+
+📧 **Gmail:** [surabhibp.8@gmail.com](mailto:surabhibp.8@gmail.com)
